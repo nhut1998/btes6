@@ -1,0 +1,146 @@
+[
+  {
+    "questionType": 1,
+    "id": 1,
+    "content": "The editor was able to make an immediate ... to the article because it was posted online.",
+    "answers": [
+      {
+        "id": "2",
+        "exact": false,
+        "content": "correct"
+      },
+      {
+        "id": "3",
+        "exact": true,
+        "content": "correction"
+      },
+      {
+        "id": "4",
+        "exact": false,
+        "content": "correctly"
+      },
+      {
+        "id": "5",
+        "exact": false,
+        "content": "corrected"
+      }
+    ]
+  },
+  {
+    "questionType": 1,
+    "id": 2,
+    "content": "Mr. Cooper fixed the computer problem that ... down transactions all last week.",
+    "answers": [
+      {
+        "id": "3",
+        "exact": false,
+        "content": "slow"
+      },
+      {
+        "id": "5",
+        "exact": false,
+        "content": "will be slowing"
+      },
+      {
+        "id": "7",
+        "exact": true,
+        "content": "has slowed"
+      },
+      {
+        "id": "9",
+        "exact": false,
+        "content": "will slow"
+      }
+    ]
+  },
+  {
+    "questionType": 1,
+    "id": 3,
+    "content": "To avoid delays in processing, the customer must fill out the form ... when making a refund request.",
+    "answers": [
+      {
+        "id": "4",
+        "exact": false,
+        "content": "careful"
+      },
+      {
+        "id": "7",
+        "exact": false,
+        "content": "carefulness"
+      },
+      {
+        "id": "10",
+        "exact": false,
+        "content": "most careful"
+      },
+      {
+        "id": "13",
+        "exact": true,
+        "content": "carefully"
+      }
+    ]
+  },
+  {
+    "questionType": 1,
+    "id": 4,
+    "content": "... the snow had been cleared from the roadways, they were still very icy on the surface.",
+    "answers": [
+      {
+        "id": "5",
+        "exact": false,
+        "content": "Before"
+      },
+      {
+        "id": "9",
+        "exact": false,
+        "content": "So that"
+      },
+      {
+        "id": "13",
+        "exact": true,
+        "content": "Although"
+      },
+      {
+        "id": "17",
+        "exact": false,
+        "content": "In case"
+      }
+    ]
+  },
+  {
+    "questionType": 2,
+    "id": 5,
+    "content": "Tỷ số giữa Việt Nam và Indonesia vòng loại WC 2022",
+    "answers": [
+      {
+        "id": "5",
+        "exact": null,
+        "content": "40"
+      }
+    ]
+  },
+  {
+    "questionType": 2,
+    "id": 6,
+    "content": "Tỷ số giữa Việt Nam và Malaysia vòng loại WC 2022",
+    "answers": [
+      {
+        "id": "6",
+        "exact": null,
+        "content": "21"
+      }
+    ]
+  },
+  {
+    "questionType": 2,
+    "id": 7,
+    "content": "Tỷ số giữa Việt Nam và UAE vòng loại WC 2022",
+    "answers": [
+      {
+        "id": "7",
+        "exact": null,
+        "content": "23"
+      }
+    ]
+  }
+]
